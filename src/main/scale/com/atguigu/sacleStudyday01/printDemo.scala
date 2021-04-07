@@ -13,6 +13,7 @@ object printDemo {
 
     println(s"个人信息如下：\n 名字$name \n 年龄$age \n 薪水${sal*10}"  )
     println("测试克隆git")
+    println("测试克隆git测试2")
   }
 
 }
