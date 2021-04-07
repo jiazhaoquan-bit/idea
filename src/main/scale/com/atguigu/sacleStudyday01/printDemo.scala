@@ -12,7 +12,7 @@ object printDemo {
     printf("名字=%s 年龄是%d 薪水是%.2f 升高%.3f",name,age,sal,height)
 
     println(s"个人信息如下：\n 名字$name \n 年龄$age \n 薪水${sal*10}"  )
-
+    println("测试git")
   }
 
 }
